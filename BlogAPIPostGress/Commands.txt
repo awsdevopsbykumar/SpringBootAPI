@@ -1,0 +1,3 @@
+cd C:\AppDemo\Spring-Boot\BlogAPIMySQL
+mvn clean install -DskipTests
+java -jar target/blog-api-docker.jar
